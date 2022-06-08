@@ -1,0 +1,159 @@
+@media screen and (max-width: 280px) and (min-width: 279px) {
+    #logo{
+        margin-left: 19px;
+    }
+    form input[type=button]{
+        margin-left: 1px;
+        width: 100px;
+    }
+    #refugiados{
+        width: 100px;
+    }
+    #botaotp1{
+        margin-top: 5px;
+        width: 150px;
+    }
+    #botaotp2{
+        margin-top: 5px;
+        margin-left: 1px;
+    }
+}
+
+@media screen and (max-width: 360px) and (min-width: 359px) {
+    form input[type=button]{
+        width: 100px;
+        margin-left: 20px;
+    }
+    #logo{
+        margin-left: 40px;
+    }
+    #refugiados{
+        width: 150px;
+    }
+    #botaotp1{
+        margin-top: 5px;
+    }
+    #botaotp2{
+        margin-top: 5px;
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width: 375px) and (min-width: 374px) {
+    form input[type=button]{
+        width: 100px;
+        margin-left: 20px;
+    }
+    #logo{
+        margin-left: 40px;
+    }
+    #refugiados{
+        width: 150px;
+    }
+    #botaotp1{
+        margin-top: 5px;
+    }
+    #botaotp2{
+        margin-top: 5px;
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width: 390px) and (min-width: 389px) {
+    #logo{
+        margin-left: 40px;
+    }
+    form input[type=button]{
+        margin-left: 40px;
+    }
+    #refugiados{
+        width: 150px;
+    }
+    #botaotp1{
+        margin-top: 5px;
+    }
+    #botaotp2{
+        margin-top: 5px;
+        margin-left: 40px;
+    }
+}
+
+@media screen and (max-width: 393px) and (min-width: 392px) {
+    form input[type=button]{
+        width: 100px;
+        margin-left: 20px;
+    }
+    #logo{
+        margin-left: 40px;
+    }
+    #refugiados{
+        width: 150px;
+    }
+    #botaotp1{
+        margin-top: 5px;
+        width: 220px;
+        margin: 5px;
+    }
+    #botaotp2{
+        margin-top: 5px;
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width: 412px) and (min-width: 411px) {
+    #logo{
+        margin-left: 45px;
+    }
+    form input[type=button]{
+        margin-left: 40px;
+    }
+    #refugiados{
+        width: 150px;
+    }
+    #botaotp1{
+        margin-top: 5px;
+    }
+    #botaotp2{
+        margin-top: 5px;
+        margin-left: 40px;
+    }
+}
+
+@media screen and (max-width: 414px) and (min-width: 413px) {
+    #logo{
+        margin-left: 45px;
+    }
+    form input[type=button]{
+        margin-left: 40px;
+    }
+    #refugiados{
+        width: 150px;
+    }
+    #botaotp1{
+        margin-top: 5px;
+    }
+    #botaotp2{
+        margin-top: 5px;
+        margin-left: 40px;
+    }
+}
+
+@media screen and (max-width: 540px) and (min-width: 539px) {
+    #logo{
+        margin-left: 80px;
+    }
+    form input[type=button]{
+        margin-left: 60px;
+    }
+    #refugiados{
+        width: 250px;
+        margin-left: -10px;
+    }
+    #botaotp1{
+        margin-top: 5px;
+    }
+    #botaotp2{
+        margin-top: 5px;
+        margin-left: 60px;
+    }
+}
